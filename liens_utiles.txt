@@ -1,0 +1,24 @@
+C:/Users/alexa/anaconda3/Scripts/activate
+
+
+https://bases.athle.fr/asp.net/liste.aspx?frmpostback=true&frmbase=resultats&frmmode=2&frmespace=0&frmsaison=2023&frmtype1=Hors+Stade&frmtype2=&frmtype3=&frmtype4=&frmniveau=R%C3%A9gional&frmniveaulab=&frmligue=&frmdepartement=&frmeprrch=&frmclub=&frmdate_j1=&frmdate_m1=&frmdate_a1=&frmdate_j2=&frmdate_m2=&frmdate_a2=
+
+
+https://bases.athle.fr/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=279052&frmepreuve=10+Km+Route+%2f+10+km+de+Riorges+%2f+TCX
+
+https://bases.athle.fr/asp.net/liste.aspx?frmbase=resultats&frmmode=1&frmespace=0&frmcompetition=279052&frmepreuve=5+Km+Route+%2f+TCX
+
+https://brightdata.fr/blog/donnees-web/web-scraping-without-getting-blocked
+
+noms_competition = noms_competition.append(str(nom_competition))
+            lieux_competition = lieux_competition.append(str(lieu_competition))
+            regions_competition = regions_competition.append(str(region_competition))
+            departements_competition = departements_competition.append(str(departement_competition))
+            labels_competition = labels_competition.append(str(label_competition))
+            epreuve2 = epreuve2.append(epreuve)
+            heures_epreuve = heures_epreuve.append(heure_epreuve)   
+
+
+https://bases.athle.fr/asp.net/liste.aspx?frmpostback=true&frmbase=resultats&frmmode=2&frmespace=0&frmsaison=2023&frmtype1=Hors+Stade&frmtype2=&frmtype3=&frmtype4=&frmniveau=D%C3%A9partemental&frmniveaulab=&frmligue=&frmdepartement=&frmeprrch=&frmclub=&frmdate_j1=&frmdate_m1=&frmdate_a1=&frmdate_j2=&frmdate_m2=&frmdate_a2=&frmposition=0
+
+https://bases.athle.fr/asp.net/liste.aspx?frmpostback=true&frmbase=resultats&frmmode=2&frmespace=0&frmsaison=2023&frmtype1=Hors+Stade&frmtype2=&frmtype3=&frmtype4=&frmniveau=D%C3%A9partemental&frmniveaulab=&frmligue=&frmdepartement=&frmeprrch=&frmclub=&frmdate_j1=&frmdate_m1=&frmdate_a1=&frmdate_j2=&frmdate_m2=&frmdate_a2=&frmposition=1
